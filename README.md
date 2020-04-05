@@ -1,2 +1,2 @@
-# learning
+# Pygame learning
  Learning pygame basics
